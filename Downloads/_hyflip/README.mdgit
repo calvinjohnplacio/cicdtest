@@ -1,1 +1,0 @@
-"# batstateu-cics-journal-formatting-2025"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/6MrRobot9/batstateu-cics-journal-formatting-2025.gitgit push -u origin main
